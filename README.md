@@ -42,4 +42,34 @@ Created using UDP Packets captured from F1 2022 Game (Codemasters)
 ![Hungaroring, Budapest](Hungaroring.svg "Hungaroring Budapest Hungary SVG")
 
 ### Belgium
-![Spa Francorchamps, Belgium]Spa.svg "Spa-Francorchanps Belgium SVG")
+![Spa Francorchamps, Belgium](Spa.svg "Spa-Francorchanps Belgium SVG")
+
+### Netherlands
+![Zandvoort, Netherlands](Zandvoort.svg "Zandvoort Netherlands SVG")
+
+### Italy
+![Monza, Italy](Monza.svg "Monza Italy SVG")
+
+### Singapore
+![Singapore](Singapre.svg "Singapore SVG")
+
+### Japan
+![Suzuka, Japan](Suzuka.svg "Suzuka Japan SVG")
+
+### Qatar
+
+
+### United States
+![Circuit of the Anericas, Austin, Texas, USA](Austin.svg "Circuit of the Americas COTA Austin Texas United States SVG") 
+
+### Mexico
+![Mexico](Mexico.svg "Mexico SVG")
+
+### Brazil
+![Interlagos, Brazil](Brazil.svg "Interlagos Brazil SVG")
+
+### United States
+
+
+### Abu Dhabi
+![Yas Marina, Abu Dhabi](Abu%20Dhabi.svg "Yas Marina Abu Dhabi SVG")
