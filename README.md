@@ -60,7 +60,7 @@ Created using UDP Packets captured from F1 2022 Game (Codemasters)
 
 
 ### United States
-![Circuit of the Anericas, Austin, Texas, USA](Austin.svg "Circuit of the Americas COTA Austin Texas United States SVG") 
+![Circuit of the Anericas, Austin, Texas, USA](Texas.svg "Circuit of the Americas COTA Austin Texas United States SVG") 
 
 ### Mexico
 ![Mexico](Mexico.svg "Mexico SVG")
