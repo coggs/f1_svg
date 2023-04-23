@@ -51,7 +51,7 @@ Created using UDP Packets captured from F1 2022 Game (Codemasters)
 ![Monza, Italy](Monza.svg "Monza Italy SVG")
 
 ### Singapore
-![Singapore](Singapre.svg "Singapore SVG")
+![Singapore](Singapore.svg "Singapore SVG")
 
 ### Japan
 ![Suzuka, Japan](Suzuka.svg "Suzuka Japan SVG")
