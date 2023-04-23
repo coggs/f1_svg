@@ -7,6 +7,6 @@ Updated for 2022
 Created using UDP Packets captured from F1 2022 Game (Codemasters)
 
 ### Australia
-![Albert Park, Melbourne](Australia.svg "Australia Albert Park Melbourne SVG")
+![Albert Park, Melbourne](Melbourne.svg "Australia Albert Park Melbourne SVG")
 
 
