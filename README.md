@@ -7,7 +7,7 @@ Updated for 2022
 Created using UDP Packets captured from F1 2022 Game (Codemasters)
 
 ### Bahrain
-![Sakhir, Bahrain](Bahrain.svg "Sakhir Bahrain SVG")
+![Sakhir, Bahrain](Sakhir (Bahrain).svg "Sakhir Bahrain SVG")
 
 ### Saudi Arabia
 ![Jeddah, Saudi Arabia](Jeddah.svg "Jeddah Saudi Arabia SVG")
@@ -16,7 +16,7 @@ Created using UDP Packets captured from F1 2022 Game (Codemasters)
 ![Albert Park, Melbourne](Melbourne.svg "Australia Albert Park Melbourne SVG")
 
 ### Azerbaijan
-![Baku, Azerbaijan](Baku.svg "Baku Azerbaijan SVG")
+![Baku, Azerbaijan](Baku (Azerbaijan).svg "Baku Azerbaijan SVG")
 
 ### United States
 ![Miami, USA](Miami.svg "Miami United States SVG")
