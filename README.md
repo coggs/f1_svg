@@ -1,4 +1,4 @@
-# f1_svg
+# F1 Track SVGs 2022 / 2023
 
 F1 Track SVGs
 Updated for 2022
