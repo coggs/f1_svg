@@ -3,7 +3,6 @@
 F1 Track SVGs
 Updated for 2022
 
-
 Created using UDP Packets captured from F1 2022 Game (Codemasters)
 
 ### Bahrain
