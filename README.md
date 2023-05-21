@@ -78,7 +78,8 @@ Las Vegas TBD
 ## Other Tracks
 
 ### Shanghai
-
+![Shanhai, China](Shanghai.svg "Shaghai China SVG")
 ### Portimao
-
+![Portimao, Portugal](Portimao.svg "Portimao Portugal SVG")
 ### Paul Ricard
+![Paul Ricard, France](Paul%20Ricard.svg "Paul Ricard France SVG")
