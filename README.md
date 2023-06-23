@@ -5,6 +5,14 @@ Updated for 2022
 
 Created using UDP Packets captured from F1 2022 Game (Codemasters)
 
+## 2023 Tracks
+### Las Vegas
+![Las Vegas, USA](Las%20Vegas.svg "Las Vegas United States SVG")
+
+### Qatar
+![Losail, Qatar](Losail.svg "Losail Qatar SVG")
+
+## 2022 Tracks
 ### Bahrain
 ![Sakhir, Bahrain](Sakhir%20(Bahrain).svg "Sakhir Bahrain SVG")
 
