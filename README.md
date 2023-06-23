@@ -1,7 +1,7 @@
 # F1 Track SVGs 2022 / 2023
 
 F1 Track SVGs
-Updated for 2022
+Updated for 2023
 
 Created using UDP Packets captured from F1 2022 Game (Codemasters)
 
