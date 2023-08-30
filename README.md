@@ -12,6 +12,12 @@ Created using UDP Packets captured from F1 2022 Game (Codemasters)
 ### Qatar
 ![Losail, Qatar](Losail.svg "Losail Qatar SVG")
 
+### Catalunya
+![Barcelona, Spain Updated for 2023](Catalunya.svg "Catalunya Barcelona SVG")
+
+### Singapore
+![Singapore Updated for 2023](sg.svg "Singapore SVG")
+
 ## 2022 Tracks
 ### Bahrain
 ![Sakhir, Bahrain](Sakhir%20(Bahrain).svg "Sakhir Bahrain SVG")
@@ -64,9 +70,6 @@ Created using UDP Packets captured from F1 2022 Game (Codemasters)
 ### Japan
 ![Suzuka, Japan](Suzuka.svg "Suzuka Japan SVG")
 
-### Qatar
-Qatar TBD
-
 ### United States
 ![Circuit of the Anericas, Austin, Texas, USA](Texas.svg "Circuit of the Americas COTA Austin Texas United States SVG") 
 
@@ -75,9 +78,6 @@ Qatar TBD
 
 ### Brazil
 ![Interlagos, Brazil](Brazil.svg "Interlagos Brazil SVG")
-
-### United States
-Las Vegas TBD
 
 ### Abu Dhabi
 ![Yas Marina, Abu Dhabi](Abu%20Dhabi.svg "Yas Marina Abu Dhabi SVG")
