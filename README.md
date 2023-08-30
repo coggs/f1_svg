@@ -13,7 +13,7 @@ Created using UDP Packets captured from F1 2022 Game (Codemasters)
 ![Losail, Qatar](Losail.svg "Losail Qatar SVG")
 
 ### Catalunya
-![Barcelona, Spain Updated for 2023](Catalunya.svg "Catalunya Barcelona SVG")
+![Barcelona, Spain Updated for 2023](bc.svg "Catalunya Barcelona SVG")
 
 ### Singapore
 ![Singapore Updated for 2023](sg.svg "Singapore SVG")
@@ -30,6 +30,9 @@ Created using UDP Packets captured from F1 2022 Game (Codemasters)
 
 ### Azerbaijan
 ![Baku, Azerbaijan](Baku%20(Azerbaijan).svg "Baku Azerbaijan SVG")
+
+### Catalunya
+![Barcelona, Spain](Catalunya.svg "Catalunya Barcelona SVG")
 
 ### United States
 ![Miami, USA](Miami.svg "Miami United States SVG")
